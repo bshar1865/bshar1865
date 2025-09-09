@@ -15,7 +15,6 @@
 - Discord: **bshar1865**  
 
 ## Discord Presence  
-![Discord Presence](https://lanyard.cnrad.dev/api/771514771295436851?theme=dark&animated=true&hideDiscrim=true)  
-
+[![Discord Presence](https://lanyard.cnrad.dev/api/771514771295436851?showDisplayName=true)](https://discord.com/users/771514771295436851)
 ## GitHub Stats  
 ![Bshar's GitHub stats](https://github-readme-stats.vercel.app/api?username=bshar1865&show_icons=true&theme=tokyonight)  
