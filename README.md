@@ -13,7 +13,7 @@
 
 ##  Contact  
 - Discord: **bshar1865**  
-![Click here to view my discord profile](https://discord.com/users/771514771295436851)
+[Click here to view my discord profile](https://discord.com/users/771514771295436851)
 
 ## GitHub Stats  
 ![Bshar's GitHub stats](https://github-readme-stats.vercel.app/api?username=bshar1865&show_icons=true&theme=tokyonight)  
